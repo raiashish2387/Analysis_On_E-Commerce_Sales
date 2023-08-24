@@ -1,0 +1,5 @@
+1. Retrieve the customer names and their corresponding orders.
+2. Find the total quantity and revenue generated from each product category.
+3. Retrieve the top-selling products in each category.
+4. Retrieve the average order value for each customer.
+5. Retrieve the customers who have made more than the average order quantity.
